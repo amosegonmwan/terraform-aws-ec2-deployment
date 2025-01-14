@@ -57,6 +57,8 @@ This infrastructure deploys:
 - An EC2 instance configured as a web server.
 - A security group to manage incoming and outgoing traffic.
 
+![aws-vpc-diagram](https://github.com/user-attachments/assets/805cb7f0-7742-4594-8988-cb9529320fbb)
+
 
 ## Technologies Used
 - **AWS EC2**: Hosting the web server.
