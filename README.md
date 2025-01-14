@@ -9,11 +9,7 @@
 4. [Architecture Overview](#architecture-overview)
 5. [Technologies Used](#technologies-used)
 6. [Getting Started](#getting-started)
-7. [Variables](#variables)
-8. [Outputs](#outputs)
-9. [Usage](#usage)
-10. [Contributing](#contributing)
-11. [License](#license)
+
 
 ## Prerequisites
 - Terraform installed
