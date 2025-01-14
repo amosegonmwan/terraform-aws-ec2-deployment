@@ -1,6 +1,6 @@
 # Terraform AWS Infrastructure Setup on EC2
 
-## This project automates the deployment of a web server on AWS EC2 using Terraform. The web server runs Amazon Linux 2, with httpd installed to serve a simple HTTP page. It also creates a security group allowing SSH and HTTP traffic.
+### This project automates the deployment of a web server on AWS EC2 using Terraform. The web server runs Amazon Linux 2, with httpd installed to serve a simple HTTP page. It also creates a security group allowing SSH and HTTP traffic.
 
 ## Table of Contents
 1. [Project Title](#project-title)
